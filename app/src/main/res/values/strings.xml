@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CircleChat</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered_click_here">Not registered? Click here</string>
+    <string name="register">Register</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="nickname">Nickname</string>
+    <string name="already_registered_click_here">Already registered? Click here to sign in</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="login">LOGIN</string>
+    <string name="server">Server</string>
+    <string name="BaseUrl">http://10.0.2.2:5064/api/</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="settings">Settings</string>
+    <string name="edit_server_address">Edit server address</string>
+    <string name="color_mode">Light Mode</string>
+    <string name="add">ADD</string>
+    <string name="messages">Messages</string>
+    <string name="addContact_add">ADD</string>
+    <string name="addContact_nickname">Nickname</string>
+    <string name="regex_AZaz09">^[A-Za-z0-9]*$</string>
+    <string name="password_regex_mismatch">Password must contain:\n8-20 chars\na Capital letter\na Small letter\na number\na special symbol</string>
+    <string name="password_mismatch_err">Passwords do not match!</string>
+    <string name="username_regex_mismatch">Username must contain:\n3-16 chars\nletters and numbers only</string>
+    <string name="channel_id">1</string>
+    <string name="password_regex_criteria"><![CDATA[^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#&()–{}:;\',?/*~$^+=<>]).{8,20}$]]></string>
+    <string name="all_fields_required">All fields are required :)</string>
+    <string name="user_exists_err">Sorry, this username already exists.</string>
+    <string name="server_not_found_err">Cannot find the server.</string>
+    <string name="fb_get_token_err">Error getting token</string>
+    <string name="incoming_msg_channel_id">1</string>
+    <string name="night_mode">night_mode</string>
+</resources>
