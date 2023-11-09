@@ -10,8 +10,8 @@ First please install:
 ## Get the code 💻
 Now use these commands
 
-`git clone https://github.com/iAdani/CircleChat.git`<br/>
-`cd CircleChat`
+`git clone https://github.com/Yotam-Ben-Dov/Whatsapp-App.git`<br/>
+`cd Whatsapp-App`
 
 ## Run Server 👨🏽‍💻
 * Go to Context.cs and change the username and password to those that you've chosen when mariaDB was installed.
